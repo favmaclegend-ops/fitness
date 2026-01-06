@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
           margin: EdgeInsets.all(10),
           alignment: Alignment.center,
           decoration: BoxDecoration(
-            color: const Color(0xff7F8F80),
+            color: const Color(0xff7F8F8),
           ),
           
           child: SvgPicture.asset(
